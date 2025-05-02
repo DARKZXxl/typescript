@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  },
+  "name": "criando-interfaces",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "config": "tsc --init",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

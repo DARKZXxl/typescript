@@ -1,0 +1,8 @@
+{
+    // o comando tsc --init cria altomaticamento o arquivo de config
+    "compilerOptions": {
+        "outFile": "main.js",
+        "target": "ESNext",
+        "strict": true
+    }
+}
